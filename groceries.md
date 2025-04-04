@@ -1,0 +1,4 @@
+rice
+banana
+potato 
+fish 
