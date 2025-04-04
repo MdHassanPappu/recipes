@@ -5,6 +5,6 @@
 * salt
 ## Instructions
 
-Hi... 
+this is the sample instuctions
 
 
