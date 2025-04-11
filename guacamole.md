@@ -8,6 +8,4 @@
 this is the sample instuctions
 there is a new sample
 
-Hi.....Asal
-
-Helll0000 ! 
+Hi....mohammad bhai. 
